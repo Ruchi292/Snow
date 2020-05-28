@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="e8409bad2f01d010e838d5072799b64e" sys_domain="global" table="x_291259_needit_needit" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-28 07:13:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>68409bad2f01d010e838d5072799b650</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_291259_needit_needit" name="x_291259_needit_needit" sys_domain="global" view="e4409bad2f01d010e838d5072799b649">e8409bad2f01d010e838d5072799b64e</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_291259_needit_needit" sys_domain="global" view="e4409bad2f01d010e838d5072799b649">20409bad2f01d010e838d5072799b64d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-28 07:13:11</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-28 07:13:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>24409bad2f01d010e838d5072799b651</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_291259_needit_needit" name="x_291259_needit_needit" sys_domain="global" view="e4409bad2f01d010e838d5072799b649">e8409bad2f01d010e838d5072799b64e</sys_ui_form>
+            <sys_ui_section caption="Log" display_value="Log" name="x_291259_needit_needit" sys_domain="global" view="e4409bad2f01d010e838d5072799b649">28409bad2f01d010e838d5072799b64d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-28 07:13:11</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-28 07:13:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a4409bad2f01d010e838d5072799b654</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_291259_needit_needit" name="x_291259_needit_needit" sys_domain="global" view="e4409bad2f01d010e838d5072799b649">e8409bad2f01d010e838d5072799b64e</sys_ui_form>
+            <sys_ui_section caption="Statistics" display_value="Statistics" name="x_291259_needit_needit" sys_domain="global" view="e4409bad2f01d010e838d5072799b649">20409bad2f01d010e838d5072799b64e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-28 07:13:11</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_291259_needit_needit</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-28 07:13:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e8409bad2f01d010e838d5072799b64e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_291259_needit_needit</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="NeedIt" source="x_291259_needit">78f99fdd2fc59010e838d5072799b6b0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">78f99fdd2fc59010e838d5072799b6b0</sys_scope>
+            <sys_update_name>sys_ui_form_sections_e8409bad2f01d010e838d5072799b64e</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-28 07:13:11</sys_updated_on>
+            <sys_user/>
+            <view display_value="User" name="User">e4409bad2f01d010e838d5072799b649</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
